@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    color:chocolate;
+}
+
+.photo {
+    display: block;
+    width: 300; 
+    height: 200;
+    box-sizing: border-box;
+    margin: auto;
+    
+
+}
+
+h3{
+    font-size: 26px;
+    text-align: center;
+}
+
+p{
+    display: inline;
+}
+
+p,
+li{
+    font-size: 24px;
+    border: 4px none black;
+    background-color: lightblue;
+}
+

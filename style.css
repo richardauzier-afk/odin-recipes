@@ -1,0 +1,6 @@
+.container{
+    border: 10px ridge red;
+    padding-left: 800px;
+    background-color: lightyellow;
+    font-family: 'Courier New', Courier, monospace;
+}
