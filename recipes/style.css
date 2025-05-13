@@ -19,13 +19,21 @@ h3{
 }
 
 p{
-    display: inline;
+    text-align: center;
 }
 
 p,
 li{
     font-size: 24px;
     border: 4px none black;
-    background-color: lightblue;
+    background-color: lightpink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+ul,
+ol {
+  list-style-type: none;
+  text-align: center;
+}
+
 
